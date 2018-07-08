@@ -1,0 +1,35 @@
+Token name: MEN
+
+Token ticker: MEN
+
+Token decimals: 0
+
+Multisig wallet address: 0x42FE987767e39C9c2c19Dd24822f551e01791252
+
+*****************************
+
+Crowdsale rate: 100
+
+Crowdsale start time: 2018-07-08T03:20 (GMT + 8)
+
+Crowdsale end time: 2018-07-08T03:25 (GMT + 8)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for PreICO: 0x7fc8FDAA99abbBcA2Bc82aD9be0ca925f2C5c4cE
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for PreICO:**** 
+
+000000000000000000000000198f0fbfffc02202b655dc5c2343b27509b1cb30
